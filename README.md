@@ -1,6 +1,7 @@
 # react-debounced-hook
 
 react-debounced-hook provides with a useDebounced hook.
+![GIF showing the basic working of react-debounced-hook](https://github.com/Prasiddha22/react-debounced-hook/blob/main/media/debounced.gif?raw=true)
 
 ## Installation
 
